@@ -1,0 +1,43 @@
+.fancy-button {
+  background-color: blue;
+  color: white;
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+
+box-shadow: 10px 10px 111px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 111px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 111px 0px rgba(0,0,0,0.75);
+}
+
+.fancy-button:hover {
+  background-color: darkblue
+}
+
+.fancy-button:active {
+  background-color: red
+}
+
+.scary-button {
+  background-color: red;
+  color: white;
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+
+box-shadow: 10px 10px 111px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 111px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 111px 0px rgba(0,0,0,0.75);
+}
+
+.scary-button:hover {
+  background-color: darkred
+}
+
+.scary-button:active {
+  background-color: yellow
+}
